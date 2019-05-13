@@ -1,0 +1,11 @@
+C:\Users\Worker\Documents\Visual Studio 2017\Projects\EFCoreTry\bin\Debug\netcoreapp2.2\EFCoreTry.deps.json
+C:\Users\Worker\Documents\Visual Studio 2017\Projects\EFCoreTry\bin\Debug\netcoreapp2.2\EFCoreTry.runtimeconfig.json
+C:\Users\Worker\Documents\Visual Studio 2017\Projects\EFCoreTry\bin\Debug\netcoreapp2.2\EFCoreTry.runtimeconfig.dev.json
+C:\Users\Worker\Documents\Visual Studio 2017\Projects\EFCoreTry\bin\Debug\netcoreapp2.2\EFCoreTry.dll
+C:\Users\Worker\Documents\Visual Studio 2017\Projects\EFCoreTry\bin\Debug\netcoreapp2.2\EFCoreTry.pdb
+C:\Users\Worker\Documents\Visual Studio 2017\Projects\EFCoreTry\obj\Debug\netcoreapp2.2\EFCoreTry.csprojAssemblyReference.cache
+C:\Users\Worker\Documents\Visual Studio 2017\Projects\EFCoreTry\obj\Debug\netcoreapp2.2\EFCoreTry.csproj.CoreCompileInputs.cache
+C:\Users\Worker\Documents\Visual Studio 2017\Projects\EFCoreTry\obj\Debug\netcoreapp2.2\EFCoreTry.AssemblyInfoInputs.cache
+C:\Users\Worker\Documents\Visual Studio 2017\Projects\EFCoreTry\obj\Debug\netcoreapp2.2\EFCoreTry.AssemblyInfo.cs
+C:\Users\Worker\Documents\Visual Studio 2017\Projects\EFCoreTry\obj\Debug\netcoreapp2.2\EFCoreTry.dll
+C:\Users\Worker\Documents\Visual Studio 2017\Projects\EFCoreTry\obj\Debug\netcoreapp2.2\EFCoreTry.pdb
